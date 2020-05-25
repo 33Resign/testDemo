@@ -1,0 +1,13 @@
+.section1 { background: url(https://cdn.dowebok.com/77/1.jpg) 50%;}
+.section2 { background: url(https://cdn.dowebok.com/77/2.jpg) 50%;}
+.section3 { background: url(https://cdn.dowebok.com/77/3.jpg) 50%;}
+.section4 { background: url(https://cdn.dowebok.com/77/4.jpg) 50%;}
+#fp-nav ul :nth-child(1) a span{
+    background-color: red;
+}
+#fp-nav ul :nth-child(2) a span{
+    background-color:pink;
+}
+#fp-nav ul :nth-child(3) a span{
+    background-color:blue;
+}
